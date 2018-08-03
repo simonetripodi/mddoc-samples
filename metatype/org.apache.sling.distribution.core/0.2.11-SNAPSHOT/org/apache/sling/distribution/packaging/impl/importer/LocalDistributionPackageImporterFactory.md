@@ -1,4 +1,6 @@
-# Apache Sling Distribution Importer - Local Package Importer Factory (`org.apache.sling.distribution.packaging.impl.importer.LocalDistributionPackageImporterFactory`)
+# Apache Sling Distribution Importer - Local Package Importer Factory
+
+## `org.apache.sling.distribution.packaging.impl.importer.LocalDistributionPackageImporterFactory`
 
 Description for org.apache.sling.distribution.packaging.impl.importer.LocalDistributionPackageImporterFactory
 

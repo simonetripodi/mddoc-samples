@@ -1,4 +1,6 @@
-# Apache Sling Distribution Importer - Repository Package Importer Factory (`org.apache.sling.distribution.packaging.impl.importer.RepositoryDistributionPackageImporterFactory`)
+# Apache Sling Distribution Importer - Repository Package Importer Factory
+
+## `org.apache.sling.distribution.packaging.impl.importer.RepositoryDistributionPackageImporterFactory`
 
 Description for org.apache.sling.distribution.packaging.impl.importer.RepositoryDistributionPackageImporterFactory
 

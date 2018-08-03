@@ -1,4 +1,6 @@
-# Apache Sling Distribution Agent - Queue Agents Factory (`org.apache.sling.distribution.agent.impl.QueueDistributionAgentFactory`)
+# Apache Sling Distribution Agent - Queue Agents Factory
+
+## `org.apache.sling.distribution.agent.impl.QueueDistributionAgentFactory`
 
 OSGi configuration factory for queueing agents
 

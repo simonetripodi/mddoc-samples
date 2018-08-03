@@ -1,4 +1,6 @@
-# Apache Sling Distribution Trigger - Jcr Event Triggers Factory (`org.apache.sling.distribution.trigger.impl.JcrEventDistributionTriggerFactory`)
+# Apache Sling Distribution Trigger - Jcr Event Triggers Factory
+
+## `org.apache.sling.distribution.trigger.impl.JcrEventDistributionTriggerFactory`
 
 Triggers a distribution request ('ADD', 'DELETE') for the given path (path) whenever the JCR node at the given path is modified (added, resp. removed).
 

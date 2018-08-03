@@ -1,4 +1,6 @@
-# Apache Sling Logging Logger Configuration (`org.apache.sling.commons.log.LogManager.factory.config`)
+# Apache Sling Logging Logger Configuration
+
+## `org.apache.sling.commons.log.LogManager.factory.config`
 
 Configure Loggers with levels, pattern and destination. See http://sling.apache.org/site/logging.html for more detailed documentation and description.
 

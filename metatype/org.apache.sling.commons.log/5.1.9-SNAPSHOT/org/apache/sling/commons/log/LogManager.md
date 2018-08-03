@@ -1,4 +1,6 @@
-# Apache Sling Logging Configuration (`org.apache.sling.commons.log.LogManager`)
+# Apache Sling Logging Configuration
+
+## `org.apache.sling.commons.log.LogManager`
 
 Global configuration setup for the Sling OSGi LogService implementation. See http://sling.apache.org/site/logging.html for more detailed documentation and description.
 

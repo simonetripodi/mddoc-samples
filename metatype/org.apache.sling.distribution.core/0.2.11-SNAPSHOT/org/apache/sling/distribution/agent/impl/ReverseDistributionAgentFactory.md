@@ -1,4 +1,6 @@
-# Apache Sling Distribution Agent - Reverse Agents Factory (`org.apache.sling.distribution.agent.impl.ReverseDistributionAgentFactory`)
+# Apache Sling Distribution Agent - Reverse Agents Factory
+
+## `org.apache.sling.distribution.agent.impl.ReverseDistributionAgentFactory`
 
 OSGi configuration factory for reverse agents
 

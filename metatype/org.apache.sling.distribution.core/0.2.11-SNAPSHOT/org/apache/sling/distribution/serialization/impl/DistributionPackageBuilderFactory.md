@@ -1,4 +1,6 @@
-# Apache Sling Distribution Packaging - Package Builder Factory (`org.apache.sling.distribution.serialization.impl.DistributionPackageBuilderFactory`)
+# Apache Sling Distribution Packaging - Package Builder Factory
+
+## `org.apache.sling.distribution.serialization.impl.DistributionPackageBuilderFactory`
 
 OSGi configuration for package builders
 

@@ -1,4 +1,6 @@
-# Apache Sling Distribution Agent - Forward Agents Factory (`org.apache.sling.distribution.agent.impl.ForwardDistributionAgentFactory`)
+# Apache Sling Distribution Agent - Forward Agents Factory
+
+## `org.apache.sling.distribution.agent.impl.ForwardDistributionAgentFactory`
 
 OSGi configuration factory for forward agents
 

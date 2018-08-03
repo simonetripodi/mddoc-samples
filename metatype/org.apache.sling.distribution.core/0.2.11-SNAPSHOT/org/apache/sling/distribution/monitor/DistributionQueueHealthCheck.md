@@ -1,4 +1,6 @@
-# Apache Sling Distribution Queue Health Check (`org.apache.sling.distribution.monitor.DistributionQueueHealthCheck`)
+# Apache Sling Distribution Queue Health Check
+
+## `org.apache.sling.distribution.monitor.DistributionQueueHealthCheck`
 
 Description for org.apache.sling.distribution.monitor.DistributionQueueHealthCheck
 

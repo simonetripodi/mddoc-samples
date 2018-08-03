@@ -1,4 +1,6 @@
-# Apache Sling Distribution Trigger - Resource Event Triggers Factory (`org.apache.sling.distribution.trigger.impl.ResourceEventDistributionTriggerFactory`)
+# Apache Sling Distribution Trigger - Resource Event Triggers Factory
+
+## `org.apache.sling.distribution.trigger.impl.ResourceEventDistributionTriggerFactory`
 
 Triggers a distribution request ('ADD', 'DELETE') for the given path (path) whenever the resource at the given path is modified (added, resp. removed).
 

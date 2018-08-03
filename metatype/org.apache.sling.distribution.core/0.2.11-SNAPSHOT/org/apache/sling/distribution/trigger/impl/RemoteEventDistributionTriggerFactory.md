@@ -1,4 +1,6 @@
-# Apache Sling Distribution Trigger - Remote Event Triggers Factory (`org.apache.sling.distribution.trigger.impl.RemoteEventDistributionTriggerFactory`)
+# Apache Sling Distribution Trigger - Remote Event Triggers Factory
+
+## `org.apache.sling.distribution.trigger.impl.RemoteEventDistributionTriggerFactory`
 
 Description for org.apache.sling.distribution.trigger.impl.RemoteEventDistributionTriggerFactory
 

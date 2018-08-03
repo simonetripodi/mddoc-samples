@@ -1,4 +1,6 @@
-# Apache Sling Distribution Trigger - Scheduled Triggers Factory (`org.apache.sling.distribution.trigger.impl.ScheduledDistributionTriggerFactory`)
+# Apache Sling Distribution Trigger - Scheduled Triggers Factory
+
+## `org.apache.sling.distribution.trigger.impl.ScheduledDistributionTriggerFactory`
 
 Triggers a distribution request of the given type (action) for the given path (path) at a periodical time interval (seconds).
 

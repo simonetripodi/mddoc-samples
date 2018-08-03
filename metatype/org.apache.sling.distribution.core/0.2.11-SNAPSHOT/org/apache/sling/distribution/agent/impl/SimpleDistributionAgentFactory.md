@@ -1,4 +1,6 @@
-# Apache Sling Distribution Agent - Simple Agents Factory (`org.apache.sling.distribution.agent.impl.SimpleDistributionAgentFactory`)
+# Apache Sling Distribution Agent - Simple Agents Factory
+
+## `org.apache.sling.distribution.agent.impl.SimpleDistributionAgentFactory`
 
 OSGi configuration factory for agents
 

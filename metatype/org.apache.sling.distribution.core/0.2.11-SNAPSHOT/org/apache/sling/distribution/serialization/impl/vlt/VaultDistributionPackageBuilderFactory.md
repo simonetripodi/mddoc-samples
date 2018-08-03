@@ -1,4 +1,6 @@
-# Apache Sling Distribution Packaging - Vault Package Builder Factory (`org.apache.sling.distribution.serialization.impl.vlt.VaultDistributionPackageBuilderFactory`)
+# Apache Sling Distribution Packaging - Vault Package Builder Factory
+
+## `org.apache.sling.distribution.serialization.impl.vlt.VaultDistributionPackageBuilderFactory`
 
 OSGi configuration for vault package builders
 

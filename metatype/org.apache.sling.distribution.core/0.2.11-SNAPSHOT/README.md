@@ -1,4 +1,4 @@
-# org.apache.sling.distribution.core-0.2.11-SNAPSHOT Metatypes
+# Apache Sling Distribution Core 0.2.11-SNAPSHOT Metatypes
 
  * [org.apache.sling.distribution.trigger.impl](./org.apache.sling.distribution.trigger.impl.md)
  * [org.apache.sling.distribution.packaging.impl.exporter](./org.apache.sling.distribution.packaging.impl.exporter.md)

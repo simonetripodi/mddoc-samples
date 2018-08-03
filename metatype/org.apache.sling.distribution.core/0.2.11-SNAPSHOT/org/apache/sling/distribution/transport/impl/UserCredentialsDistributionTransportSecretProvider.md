@@ -1,4 +1,6 @@
-# Apache Sling Distribution Transport Credentials - User Credentials based DistributionTransportSecretProvider (`org.apache.sling.distribution.transport.impl.UserCredentialsDistributionTransportSecretProvider`)
+# Apache Sling Distribution Transport Credentials - User Credentials based DistributionTransportSecretProvider
+
+## `org.apache.sling.distribution.transport.impl.UserCredentialsDistributionTransportSecretProvider`
 
 Description for org.apache.sling.distribution.transport.impl.UserCredentialsDistributionTransportSecretProvider
 

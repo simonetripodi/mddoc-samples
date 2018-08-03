@@ -1,4 +1,6 @@
-# Apache Sling Distribution Request Authorization - Privilege Request Authorization Strategy (`org.apache.sling.distribution.agent.impl.PrivilegeDistributionRequestAuthorizationStrategyFactory`)
+# Apache Sling Distribution Request Authorization - Privilege Request Authorization Strategy
+
+## `org.apache.sling.distribution.agent.impl.PrivilegeDistributionRequestAuthorizationStrategyFactory`
 
 OSGi configuration for request based authorization strategy based on privileges
 

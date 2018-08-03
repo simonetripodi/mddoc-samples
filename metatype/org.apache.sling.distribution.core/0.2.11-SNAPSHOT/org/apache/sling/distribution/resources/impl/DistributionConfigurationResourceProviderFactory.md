@@ -1,4 +1,6 @@
-# Apache Sling Distribution Resources - Configuration Resource Provider Factory (`org.apache.sling.distribution.resources.impl.DistributionConfigurationResourceProviderFactory`)
+# Apache Sling Distribution Resources - Configuration Resource Provider Factory
+
+## `org.apache.sling.distribution.resources.impl.DistributionConfigurationResourceProviderFactory`
 
 Distribution Configuration Resource Provider Factory
 

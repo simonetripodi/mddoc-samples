@@ -1,4 +1,6 @@
-# Apache Sling Distribution Exporter - Local Package Exporter Factory (`org.apache.sling.distribution.packaging.impl.exporter.LocalDistributionPackageExporterFactory`)
+# Apache Sling Distribution Exporter - Local Package Exporter Factory
+
+## `org.apache.sling.distribution.packaging.impl.exporter.LocalDistributionPackageExporterFactory`
 
 Description for org.apache.sling.distribution.packaging.impl.exporter.LocalDistributionPackageExporterFactory
 

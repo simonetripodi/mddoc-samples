@@ -1,4 +1,6 @@
-# Apache Sling Distribution Trigger - Persisted Jcr Event Triggers Factory (`org.apache.sling.distribution.trigger.impl.PersistedJcrEventDistributionTriggerFactory`)
+# Apache Sling Distribution Trigger - Persisted Jcr Event Triggers Factory
+
+## `org.apache.sling.distribution.trigger.impl.PersistedJcrEventDistributionTriggerFactory`
 
 Description for org.apache.sling.distribution.trigger.impl.PersistedJcrEventDistributionTriggerFactory
 

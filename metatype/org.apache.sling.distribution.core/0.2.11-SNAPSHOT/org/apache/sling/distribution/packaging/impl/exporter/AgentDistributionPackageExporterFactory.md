@@ -1,4 +1,6 @@
-# Apache Sling Distribution Exporter - Agent Based Package Exporter (`org.apache.sling.distribution.packaging.impl.exporter.AgentDistributionPackageExporterFactory`)
+# Apache Sling Distribution Exporter - Agent Based Package Exporter
+
+## `org.apache.sling.distribution.packaging.impl.exporter.AgentDistributionPackageExporterFactory`
 
 Description for org.apache.sling.distribution.packaging.impl.exporter.AgentDistributionPackageExporterFactory
 

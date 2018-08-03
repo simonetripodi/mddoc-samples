@@ -1,4 +1,6 @@
-# Apache Sling Distribution Resources - Service Resource Provider Factory (`org.apache.sling.distribution.resources.impl.DistributionServiceResourceProviderFactory`)
+# Apache Sling Distribution Resources - Service Resource Provider Factory
+
+## `org.apache.sling.distribution.resources.impl.DistributionServiceResourceProviderFactory`
 
 Distribution Service Resource Provider Factory
 

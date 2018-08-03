@@ -1,4 +1,6 @@
-# Apache Sling Distribution Importer - Remote Package Importer Factory (`org.apache.sling.distribution.packaging.impl.importer.RemoteDistributionPackageImporterFactory`)
+# Apache Sling Distribution Importer - Remote Package Importer Factory
+
+## `org.apache.sling.distribution.packaging.impl.importer.RemoteDistributionPackageImporterFactory`
 
 Description for org.apache.sling.distribution.packaging.impl.importer.RemoteDistributionPackageImporterFactory
 

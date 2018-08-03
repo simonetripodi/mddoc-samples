@@ -1,4 +1,6 @@
-# Apache Sling Distribution Exporter - Remote Package Exporter Factory (`org.apache.sling.distribution.packaging.impl.exporter.RemoteDistributionPackageExporterFactory`)
+# Apache Sling Distribution Exporter - Remote Package Exporter Factory
+
+## `org.apache.sling.distribution.packaging.impl.exporter.RemoteDistributionPackageExporterFactory`
 
 Description for org.apache.sling.distribution.packaging.impl.exporter.RemoteDistributionPackageExporterFactory
 

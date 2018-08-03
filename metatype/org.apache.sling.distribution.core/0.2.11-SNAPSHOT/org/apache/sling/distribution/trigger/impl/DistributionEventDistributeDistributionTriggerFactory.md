@@ -1,4 +1,6 @@
-# Apache Sling Distribution Trigger - Distribution Event Triggers Factory (`org.apache.sling.distribution.trigger.impl.DistributionEventDistributeDistributionTriggerFactory`)
+# Apache Sling Distribution Trigger - Distribution Event Triggers Factory
+
+## `org.apache.sling.distribution.trigger.impl.DistributionEventDistributeDistributionTriggerFactory`
 
 Description for org.apache.sling.distribution.trigger.impl.DistributionEventDistributeDistributionTriggerFactory
 

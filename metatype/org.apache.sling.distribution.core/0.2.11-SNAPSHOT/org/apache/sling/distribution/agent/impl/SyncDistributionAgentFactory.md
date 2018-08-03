@@ -1,4 +1,6 @@
-# Apache Sling Distribution Agent - Sync Agents Factory (`org.apache.sling.distribution.agent.impl.SyncDistributionAgentFactory`)
+# Apache Sling Distribution Agent - Sync Agents Factory
+
+## `org.apache.sling.distribution.agent.impl.SyncDistributionAgentFactory`
 
 OSGi configuration factory for syncing agents
 

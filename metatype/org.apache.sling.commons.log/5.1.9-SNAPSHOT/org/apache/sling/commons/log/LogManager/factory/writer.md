@@ -1,4 +1,6 @@
-# Apache Sling Logging Writer Configuration (`org.apache.sling.commons.log.LogManager.factory.writer`)
+# Apache Sling Logging Writer Configuration
+
+## `org.apache.sling.commons.log.LogManager.factory.writer`
 
 Configure a Logger Writer for Sling Logging. See http://sling.apache.org/site/logging.html for more detailed documentation and description.
 
