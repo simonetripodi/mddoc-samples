@@ -9,4 +9,4 @@ Triggers a distribution request ('ADD', 'DELETE') for the given path (path) when
 | path | Path | `true` | `String` | `null` | The path for which changes are distributed. |
 | ignoredPathsPatterns | Ignored Paths Patterns | `true` | `String` | `null` | The paths matching one of these patterns will be ignored. |
 | serviceName | Service Name | `true` | `String` | `null` | The service used to listen for jcr events |
-| deep | Use deep distribution | `true` | `String` | `[false]` | Distribute entire subtree of the event node path. Default is 'false'. |
+| deep | Use deep distribution | `true` | `Boolean` | `[false]` | Distribute entire subtree of the event node path. Default is 'false'. |
